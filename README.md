@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0001-two-sum) |
+## Database
+|  |
+| ------- |
+| [1158-market-analysis-i](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1158-market-analysis-i) |
 <!---LeetCode Topics End-->
