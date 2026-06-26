@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1158-market-analysis-i](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1158-market-analysis-i) |
+| [1393-capital-gainloss](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1393-capital-gainloss) |
 ## String
 |  |
 | ------- |
