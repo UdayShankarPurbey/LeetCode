@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-immediate-food-delivery-ii](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1174-immediate-food-delivery-ii) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1393-capital-gainloss](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1393-capital-gainloss) |
+| [1934-confirmation-rate](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1934-confirmation-rate) |
 ## String
 |  |
 | ------- |
