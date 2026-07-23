@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0007-reverse-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
 |  |
