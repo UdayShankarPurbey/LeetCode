@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1310-xor-queries-of-a-subarray](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [2574-left-and-right-sum-differences](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3028-ant-on-the-boundary) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0763-partition-labels](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0763-partition-labels) |
 ## Greedy
 |  |
