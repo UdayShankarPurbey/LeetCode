@@ -91,11 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0007-reverse-integer) |
+| [2485-find-the-pivot-integer](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1310-xor-queries-of-a-subarray](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
+| [2485-find-the-pivot-integer](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
