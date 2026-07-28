@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1310-xor-queries-of-a-subarray](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1310-xor-queries-of-a-subarray](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
+| [1991-find-the-middle-index-in-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3028-ant-on-the-boundary) |
