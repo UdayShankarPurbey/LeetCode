@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0020-valid-parentheses) |
+| [0647-palindromic-substrings](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0763-partition-labels) |
 ## Sliding Window
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0647-palindromic-substrings](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0763-partition-labels) |
 ## Greedy
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
