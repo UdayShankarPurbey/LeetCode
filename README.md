@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3731-find-missing-elements](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0763-partition-labels](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0763-partition-labels) |
 | [2848-points-that-intersect-with-cars](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
+| [3731-find-missing-elements](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3731-find-missing-elements) |
 ## Database
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
