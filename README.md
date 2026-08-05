@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0049-group-anagrams](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0136-single-number) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0049-group-anagrams) |
 | [0763-partition-labels](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0763-partition-labels) |
 | [2848-points-that-intersect-with-cars](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [3731-find-missing-elements](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3731-find-missing-elements) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0049-group-anagrams) |
 | [0647-palindromic-substrings](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0763-partition-labels) |
 ## Sliding Window
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0049-group-anagrams) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
