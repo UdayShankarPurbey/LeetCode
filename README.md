@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0763-partition-labels](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0763-partition-labels) |
 | [2848-points-that-intersect-with-cars](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
