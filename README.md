@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1310-xor-queries-of-a-subarray](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1310-xor-queries-of-a-subarray](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2485-find-the-pivot-integer) |
