@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0007-reverse-integer) |
+| [0258-add-digits](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0263-ugly-number) |
 | [2485-find-the-pivot-integer](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0258-add-digits) |
 | [3028-ant-on-the-boundary](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3028-ant-on-the-boundary) |
 ## Two Pointers
 |  |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
