@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0344-reverse-string) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0263-ugly-number) |
