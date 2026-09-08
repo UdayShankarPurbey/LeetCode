@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0263-ugly-number) |
 | [2485-find-the-pivot-integer](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3870-count-commas-in-range](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3895-count-digit-appearances](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Prefix Sum
 |  |
