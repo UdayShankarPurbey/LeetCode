@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0231-power-of-two) |
 | [1310-xor-queries-of-a-subarray](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 ## Stack
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0231-power-of-two) |
 ## Tree
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0263-ugly-number) |
 | [2485-find-the-pivot-integer](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2485-find-the-pivot-integer) |
