@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0155-min-stack) |
 ## Linked List
 |  |
 | ------- |
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0075-sort-colors) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
