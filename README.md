@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0263-ugly-number) |
+| [2396-strictly-palindromic-number](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3870-count-commas-in-range](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0763-partition-labels) |
+| [2396-strictly-palindromic-number](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0155-min-stack) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
